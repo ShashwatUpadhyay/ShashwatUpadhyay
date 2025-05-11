@@ -26,7 +26,7 @@
 
  **<h3 align="left">Skills</h3>**
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px">
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,django,python,react,html,css,tailwind,javascript,nginx,redis,rabbitmq,postman,postgres,mysql,kafka," />
