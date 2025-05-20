@@ -19,8 +19,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Django rest framework.**
-- 🌱 I'm currently learning: **📚 full stack development**
+- 🌱 I'm currently learning: **📚 full stack development and Machine Learning**
 - 💬 Ask me about: **💡 JavaScript, React, Django, Django Rest Framework, SQL, and RESTful APIs**
 - ⚡ Fun fact: **🎢 I’m looking to collaborate on open source projects related to full stack development, machine learning, or data science**
 
