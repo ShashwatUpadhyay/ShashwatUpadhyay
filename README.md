@@ -28,7 +28,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,django,python,react,html,css,tailwind,javascript,nginx,redis,rabbitmq,postman,postgres,mysql,kafka," />
+    <img src="https://skillicons.dev/icons?i=git,django,python,react,html,css,tailwind,javascript,nginx,redis,rabbitmq,postman,postgres,mysql,kafka,github" />
   </a>
 </p>
 
