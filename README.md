@@ -51,8 +51,8 @@
 
 <div align="center">
   <!-- Replace 'your-repo' with actual repo names -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShashwatUpadhyay&repo=your-repo-1&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShashwatUpadhyay&repo=your-repo-2&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShashwatUpadhyay&repo=RealTime-Chat-Application&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShashwatUpadhyay&repo=EcommerceApplication&theme=radical&hide_border=true" />
 </div>
 
 ---
