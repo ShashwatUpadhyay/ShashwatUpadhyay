@@ -39,11 +39,7 @@
 
 ---
 
-## 🛠️ WakaTime Activity (Last 7 Days)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShashwatUpadhyay&theme=radical&hide_border=true" />
-</div>
 
 ---
 
@@ -77,14 +73,4 @@
 ☕ Fuel:           Endless coffee supply
 🧠 Secret Power:  Debugging while sleeping
 ```
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShashwatUpadhyay/ShashwatUpadhyay/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShashwatUpadhyay/ShashwatUpadhyay/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ShashwatUpadhyay/ShashwatUpadhyay/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
